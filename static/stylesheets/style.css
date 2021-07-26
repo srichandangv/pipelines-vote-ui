@@ -28,7 +28,8 @@ button i{
 }
 
 button.a{
-  background-color: #e00;
+  #background-color: #e00;
+  background-color: #800080;
 }
 
 button.b{
